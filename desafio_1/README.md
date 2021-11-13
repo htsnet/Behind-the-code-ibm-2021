@@ -3,6 +3,7 @@ Challenge 1 // Desafio 1 - Português
 Fields of each CSV file and some comments / free translation to portuguese
 
 ACCOUNTS.csv (CONTAS)
+
 CHECKING_BALANCE = SALDO
 CREDIT_HISTORY
 EXISTING_SAVINGS = ECONOMIAS EXISTENTES
@@ -10,6 +11,7 @@ EXISTING_CREDITS_COUNT = CONTAGEM DE CRÉDITOS EXISTENTES
 
 
 DEMOGRAPHICS.csv (DEMOGRÁFICO)
+
 SEX
 AGE
 JOB_TYPE
